@@ -4,13 +4,13 @@ Here are the grading criteria:
 
 ## Keyword
 
-As recently COVID-19 began to spread rampantly again around the world, I'm curious how people all around the United States view this issue. Since the beginning of the pandemic, there were a lot of resistance toward masks, social distancing, and vaccines. I wonder if people's attitude has changed since or they have grown even more weary toward this never-ending risk. Therefore, I decided on "COVID" as my keyword.
+As COVID-19 began to spread rampantly again around the world, I'm curious how people around the United States view this issue. Since the beginning of the pandemic, there were a lot of resistance toward masks, social distancing, and vaccines. I wonder if people's attitude has changed since or if they have grown even wearier toward this never-ending risk. Therefore, I decided on "COVID" as my keyword.
 
-To keep the dataset manageable and obtain people's recent sentiments around the issue, I chose Jan 14th as the starting date. To make sure I get a more holistic view, I slightly increased the data collection radius to 18 miles.
+To keep the dataset manageable and obtain people's recent sentiments around the issue, I chose Jan 14th as the starting date. To  get a more holistic view, I slightly increased the data collection radius to 18 miles.
 
 ## Locations
 
-The three cities I chose are: Redmond, Boston, and Fort Worth. This allows me to contrast between East (Boston) and West (Redmond), North (Redmond) and South (Fort Worth). I wanted to see if there were dramatically different opinions on COVID between different regions.
+The three cities I chose are Redmond, Boston, and Fort Worth. This allows me to contrast East (Boston) and West (Redmond), North (Redmond), and South (Fort Worth). I wanted to see if there were dramatically different opinions on COVID among different regions.
 
 ## Wordclouds
 
@@ -28,9 +28,9 @@ The three cities I chose are: Redmond, Boston, and Fort Worth. This allows me to
 
 ## Analysis
 
-In all three places, people talk about vaccines the most and the general frequent terms are similar. Some key terms in Redmond's wordcloud are "flu," "work out," "test," "long," "people," "death," "AMP." 
+In all three places, people talk about vaccines the most, and the  frequent terms are similar. Some key terms in Redmond's word cloud are "flu," "work out," "test," "long," "people," "death," and "AMP." 
 
-For Fort Worth, the same theme applies, but I see "HealthByJames" as a frequent word that is exclusive for this city. As I googled this term, it refers to an anti-vaccine twitter account that has a lot of followers. This makes sense given the political climate in Texas.
+For Fort Worth, the same theme applies, but I see "HealthByJames" as a frequent word that is exclusive to this city. As I googled this term, it refers to an anti-vaccine Twitter account that has a lot of followers. This makes sense given the political climate in Texas.
 
 Lastly, Boston also has the same frequent words for the most part. However, since I centered the location around Boston University, there are some unique terms like "study," "due," etc.
 
@@ -38,4 +38,4 @@ Overall, the difference between the three cities is negligible except that there
 
 ## Reflections
 
-I think the next step to improving the quality of my analysis is to not be afraid of big datasets, and choose earlier start dates so we get more sample tweets which generates results that better represent the region. Also, there were many special characters that appeared quite frequently in my word cloud visualizations, instead of deleting them instantly, I could spend more time understanding their origins, maybe they are emojis which can reveal people's emotions toward COVID.
+I think the next step to improving the quality of my analysis is to not be afraid of big datasets, and choose earlier start dates so we get more sample tweets that generate results that better represent the region. Also, there were many special characters that appeared quite frequently in my word cloud visualizations, instead of deleting them instantly, I could spend more time understanding their origins, maybe they are emojis that can reveal people's emotions toward COVID.
